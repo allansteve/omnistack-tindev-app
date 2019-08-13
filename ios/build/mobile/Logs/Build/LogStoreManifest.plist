@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0B8BA44C-C6B2-48F1-AE8C-A65DDFA4214E</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0B8BA44C-C6B2-48F1-AE8C-A65DDFA4214E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>mobile project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>mobile</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project mobile with scheme mobile and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>587352543.51617599</real>
+			<key>timeStoppedRecording</key>
+			<real>587352556.39655399</real>
+			<key>title</key>
+			<string>Building project mobile with scheme mobile and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>0B8BA44C-C6B2-48F1-AE8C-A65DDFA4214E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
